@@ -17,7 +17,7 @@ removed two lines:
 "axisfile       = data\\\\:'" .. axis_1 .. "':" ..
 
 changed font color:  
-"fontcolor      = 'st(0, (midi(f)-53.5)/12); st(1, 0.5 - 0.5 * cos(PI*ld(0))); r(1-ld(1)) + b(ld(1))':" ..
+"fontcolor      = 'st(0, (midi(f)-53.5)/12); st(1, 0.5 - 0.5 * cos(PI*ld(0))); r(1-ld(1)) + b(ld(1))':" ..  
 to  
 "fontcolor      = 'a(0)':" ..
 
