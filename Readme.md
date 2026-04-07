@@ -2,9 +2,9 @@
 
 v 2026-04-07-1
 
-### installing:
+### Installing:
 
-copy to mpv/scripts folder, or %appdata%/mpv/scripts, or .cache/mpv/scripts
+copy lua files to mpv/scripts folder, or %appdata%/mpv/scripts, or .cache/mpv/scripts
 
 
 - visualizer.lua - various audio visualization.
