@@ -2,7 +2,7 @@
 
 v 2026-04-07-1
 
-It displays visualizers when there is no video played
+It displays visualizers when there is no video played, without text in the middle.
 
 ### Installing:
 
