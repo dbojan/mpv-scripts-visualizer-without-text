@@ -2,10 +2,11 @@
 
 v 2026-04-07-1
 
+It displays visualizers when there is no video played
+
 ### Installing:
 
 copy lua files to mpv/scripts folder, or %appdata%/mpv/scripts, or .cache/mpv/scripts
-
 
 - visualizer.lua - various audio visualization.
 
@@ -14,6 +15,8 @@ copy lua files to mpv/scripts folder, or %appdata%/mpv/scripts, or .cache/mpv/sc
 ### Key bindings
 
 use c key to flip through
+
+use standard f key to go to fullscreen in mpv.
 
 ### visualizer.lua, without text in the middle:
 
