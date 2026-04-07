@@ -6,31 +6,19 @@
 
 ## Key bindings
 
-Look at the lua scripts.
+use c key to flip through
 
 ## Screenshoots
 
 ### visualizer.lua
 
-- showcqt
+removed line:  
+"axisfile
 
-![showcqt](screenshoots/showcqt.jpg)
-
-- avectorscope
-
-![avectorscope](screenshoots/avectorscope.jpg)
-
-- showspectrum
-
-![showspectrum](screenshoots/showspectrum.jpg)
-
-- showcqtbar
-
-![showcqtbar](screenshoots/showcqtbar.jpg)
-
-- showwaves
-
-![showwaves](screenshoots/showwaves.jpg)
+changed font color:  
+"fontcolor      = 'st(0, (midi(f)-53.5)/12); st(1, 0.5 - 0.5 * cos(PI*ld(0))); r(1-ld(1)) + b(ld(1))':" ..
+to  
+"fontcolor      = 'a(0)':" ..
 
 ### firequalizer15.lua
 
