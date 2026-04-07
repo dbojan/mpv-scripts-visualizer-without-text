@@ -1,4 +1,4 @@
-## Visualizers for mpv
+## Visualizers for mpv without text in the middle
 
 v 2026-04-07-1
 
@@ -18,7 +18,7 @@ use c key to flip through
 
 use standard f key to go to fullscreen in mpv.
 
-### visualizer.lua, without text in the middle:
+### visualizer.lua, what was modified:
 
 - removed two lines:  
 "axisfile       = data\\\\:'" .. axis_0 .. "':" ..  
